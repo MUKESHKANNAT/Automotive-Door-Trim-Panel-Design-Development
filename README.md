@@ -1,70 +1,59 @@
-# Door Trim Panel CAD Model (CATIA V5)
-
-## Objective
-The goal of this project is to develop a **production-ready CAD model** for a **Door Trim Panel** using **CATIA V5**, with a focus on engineering precision and real-world applicability. Key aspects include:
-
-- Defined material thickness and optimized mounting features.
-- Robust attachment methods such as push pins with doghouses, heat stakes, etc.
-- Considerations for **material selection**, **draft analysis**, and **tooling and parting line design** to streamline production.
-- A future-ready model supporting **maintenance** and **design scalability**.
-
-This project goes beyond just creating a CAD model—it offers a comprehensive engineering solution that ensures manufacturing excellence and lifecycle support.
+[![Status](https://img.shields.io/badge/status-completed-brightgreen.svg)](https://github.com/yourusername/door-trim-project)
+[![License](https://img.shields.io/badge/license-private-lightgrey.svg)]()
+[![Tool-CATIA-V5](https://img.shields.io/badge/CAD-CATIA%20V5-blue.svg)]()
 
 ---
 
-## Introduction
+Welcome to the official repository for the *Automotive Door Trim Panel* design and development project. This project showcases a comprehensive engineering study and development process for a vehicle interior component—specifically, the door trim panel—integrating aesthetics, functionality, manufacturability, and safety considerations.
 
-### Automotive Plastic Trims
-Automotive trims play a significant role in both the **aesthetic appeal** and **functional performance** of vehicles. Made primarily from **plastics**, these trims are designed to deliver both durability and visual enhancement, contributing to the overall vehicle experience.
+## Overview
 
----
+This project demonstrates the end-to-end approach followed in the *design and development of an automotive interior door trim panel*, beginning from initial concept generation and benchmarking to 3D CAD design, material selection, and manufacturability review.
 
-## Interior Trims
+## Key Features
 
-### Aesthetics
-Interior trims, such as door panels, dashboards, and consoles, enhance the cabin's visual appeal. These trims are made from high-quality materials like leather, wood, or versatile plastics, offering a wide range of designs that can cater to **luxurious**, **sporty**, or **budget-friendly** tastes.
+- *Benchmarking* of existing door trims to derive product specifications
+- *Material selection* based on functional requirements and cost optimization
+- *Class A surface analysis* and feasibility study
+- *3D modeling in CATIA V5* covering main door panel and sub-components
+- *DFM (Design for Manufacturing)* and DFA (Design for Assembly) principles
+- *Cost analysis* and estimated Bill of Materials (BoM)
+- *Engineering drawings* with GD&T annotations
 
-### Functionality
-These trims integrate critical controls and components, including **window switches**, **armrests**, **infotainment systems**, and **storage compartments**, improving the structure and usability of the interior.
+## Tools & Technologies Used
 
-### Protection
-Trims are also designed to protect high-contact areas, such as **door handles** and **entry points**, from wear and tear, ensuring the vehicle's finish is maintained despite regular use.
+- *CAD Software*: CATIA V5
+- *Documentation*: MS Word, PDF
+- *Analysis*: Manual feasibility checks, DFM/DFA considerations
 
----
+## Deliverables
 
-## Exterior Trims
+- Final PDF report (Automotive_Door_Trim_Panel_Project_Report.pdf)
+- CAD models and technical drawings (not included in this repo; available upon request)
 
-### Style Statement
-Exterior trims help define the overall appearance of a vehicle, offering everything from **chrome accents** to **rugged matte finishes**. These trims personalize the vehicle’s exterior, adding character, sportiness, or a more rugged aesthetic.
+## Project Timeline
 
-### Defense Mechanism
-Trims like **bumpers**, **rocker panels**, and **mud flaps** serve as the first line of defense against debris, dents, and scrapes, protecting both the form and function of the vehicle.
+| Phase               | Description                              | Status     |
+|--------------------|------------------------------------------|------------|
+| Benchmarking        | Studied OEM trims and component layouts  | ✅ Completed |
+| Concept Design      | Class A surface analysis and modeling    | ✅ Completed |
+| CAD Development     | 3D modeling in CATIA V5                  | ✅ Completed |
+| Feasibility & Cost  | DFM/DFA review and cost estimation       | ✅ Completed |
+| Documentation       | Final report preparation                 | ✅ Completed |
 
-### Aerodynamics
-Functional trims, such as **spoilers** or **side skirts**, go beyond visual appeal by enhancing **aerodynamics**, improving **handling**, and potentially boosting **fuel efficiency**.
+## How to Use
 
----
+1. Download or view the project report (Automotive_Door_Trim_Panel_Project_Report.pdf) from this repository.
+2. Navigate through the sections to understand the structured design process.
+3. Use the insights for academic reference or as a design guideline for similar automotive interior components.
 
-## Why This Project Stands Out
+## Author
 
-- Built using **CATIA V5**, a leading CAD platform in the automotive industry.
-- Balances **aesthetic design** with **engineering precision**.
-- Focuses on **manufacturing readiness**, **tooling efficiency**, and **future scalability**.
-- Reflects **real-world detailing** in both interior and exterior automotive trims.
+*Mukesh Kanna T*  
+Senior Engineer – Design & Development  
+MAHLE Engine Components  
+[LinkedIn Profile](#) (www.linkedin.com/in/tmukeshkanna)
 
----
+## License
 
-## Final Thoughts
-
-This project exemplifies the integration of **design thinking**, **functional detailing**, and **manufacturing awareness**. Automotive trims may often be overlooked, but this project highlights their importance in achieving the perfect balance of **aesthetic appeal**, **functionality**, and **engineering intent**—all within a production-ready model.
-
----
-
-## Contact Information
-
-If you're interested in discussing design, engineering, and how I can contribute to your team, please feel free to reach out:
-
-| Contact Method | Details                       |
-|----------------|-------------------------------|
-| Email          | tmukesht.99@gmail.com       |
-| Phone          | +91 94889 66867     |
+This project is shared for educational and portfolio purposes. All commercial rights reserved to the author.
